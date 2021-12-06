@@ -1,31 +1,5 @@
 [
   {
-    "itag": 18,
-    "mimeType": "video/mp4; codecs=\"avc1.42001E, mp4a.40.2\"",
-    "width": 640,
-    "height": 360,
-    "contentLength": "37566943",
-    "quality": "medium",
-    "qualityLabel": "360p",
-    "audioQuality": "AUDIO_QUALITY_LOW",
-    "audioSampleRate": "44100",
-    "url": "https://r3---sn-vgqs7ney.googlevideo.com/videoplayback?expire=1613083175&ei=xl0lYLTsOYuRigTniKewBw&ip=73.44.159.175&id=o-AK5U3YRNvHl6y8UNYeHOuSju2dUkkBqiWNNn4EnczOE3&itag=18&source=youtube&requiressl=yes&mh=ta&mm=31%2C29&mn=sn-vgqs7ney%2Csn-vgqskns7&ms=au%2Crdu&mv=m&mvi=3&pl=15&initcwndbps=1785000&vprv=1&mime=video%2Fmp4&ns=ClVsKdYkdsXEH-wN5BA-tTkF&gir=yes&clen=37566943&ratebypass=yes&dur=667.016&lmt=1612997479356301&mt=1613060937&fvip=3&beids=9466586&c=WEB&txp=5530434&n=B4Y7dhUpKo8z1j&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAP3_51aqK3K3MONvgqDmcthpiM8oniucCXxMs01ebhq2AiEAmfHQaKsiu96gyf9TD7x_EPt3dLFqyWNWBr7ksFP7y40%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAN1GHEBLYLpgmMpZsCIpt6f4U7zBPSPkLsP5ouc2oMVWAiEA1Ff2HrdIVYUqV3Vlq_uncsUEebAKU4RjUMziTUjItwU%3D",
-    "signatureCipher": null
-  },
-  {
-    "itag": 22,
-    "mimeType": "video/mp4; codecs=\"avc1.64001F, mp4a.40.2\"",
-    "width": 1280,
-    "height": 720,
-    "contentLength": null,
-    "quality": "hd720",
-    "qualityLabel": "720p",
-    "audioQuality": "AUDIO_QUALITY_MEDIUM",
-    "audioSampleRate": "44100",
-    "url": "https://r3---sn-vgqs7ney.googlevideo.com/videoplayback?expire=1613083175&ei=xl0lYLTsOYuRigTniKewBw&ip=73.44.159.175&id=o-AK5U3YRNvHl6y8UNYeHOuSju2dUkkBqiWNNn4EnczOE3&itag=22&source=youtube&requiressl=yes&mh=ta&mm=31%2C29&mn=sn-vgqs7ney%2Csn-vgqskns7&ms=au%2Crdu&mv=m&mvi=3&pl=15&initcwndbps=1785000&vprv=1&mime=video%2Fmp4&ns=ClVsKdYkdsXEH-wN5BA-tTkF&cnr=14&ratebypass=yes&dur=667.016&lmt=1613000535641001&mt=1613060937&fvip=3&beids=9466586&c=WEB&txp=5532434&n=B4Y7dhUpKo8z1j&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAKTqGSfCcG2SnSHE-f0ZprCv_BNAdWfdr3wK-ILgux3lAiA6hidm7mqjMR4rYdMTjk7a3A9SLA1PbmAlyEPn_8cD9Q%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAN1GHEBLYLpgmMpZsCIpt6f4U7zBPSPkLsP5ouc2oMVWAiEA1Ff2HrdIVYUqV3Vlq_uncsUEebAKU4RjUMziTUjItwU%3D",
-    "signatureCipher": null
-  },
-  {
     "itag": 137,
     "mimeType": "video/mp4; codecs=\"avc1.640028\"",
     "width": 1920,
